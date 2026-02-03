@@ -24,5 +24,3 @@ Herramientas: SQL, Python
 Visualización de KPIs para soporte a decisiones de negocio.  
 Herramientas: Tableau  
 
-📌 Cada proyecto incluye objetivo, proceso, hallazgos y conclusiones.
-
